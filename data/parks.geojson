@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Park",
+        "amenities": ["Pet-friendly", "Restrooms"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.619392, 41.872173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millennium Park",
+        "amenities": ["Restrooms", "Quiet Areas"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.622554, 41.882702]
+      }
+    }
+  ]
+}
