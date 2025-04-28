@@ -1,1 +1,18 @@
-/*Add CSS styles here*/
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  #map {
+    width: 75%;
+    height: 100vh;
+  }
+  
+  #sidebar {
+    width: 25%;
+    padding: 10px;
+    background: #f4f4f4;
+    overflow-y: auto;
+  }
+  

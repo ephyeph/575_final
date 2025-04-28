@@ -1,82 +1,48 @@
-// Array of city objects with name and population
-var cityPop = [
-    { 
-        city: 'Madison',
-        population: 233209
-    },
-    {
-        city: 'Milwaukee',
-        population: 594833
-    },
-    {
-        city: 'Green Bay',
-        population: 104057
-    },
-    {
-        city: 'Superior',
-        population: 27244
-    }
-];
+// Initialize map
+const map = L.map('map').setView([41.8781, -87.6298], 12); // Chicago center
 
-// Function to add a new "City Size" column to the table
-function addColumns(cityPop) {
-    // Loop through all rows in the table
-    document.querySelectorAll("tr").forEach(function(row, i) {
-        if (i == 0) {
-            // Add a new column header to the first row
-            row.insertAdjacentHTML('beforeend', '<th>City Size</th>');
-        } else {
-            // Determine the city size based on population
-            var citySize;
+// Add base layer
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap contributors'
+}).addTo(map);
 
-            if (cityPop[i - 1].population < 100000) {
-                citySize = 'Small';
-            } else if (cityPop[i - 1].population < 500000) {
-                citySize = 'Medium';
-            } else {
-                citySize = 'Large';
-            }
+// Load park data
+let parksLayer;
 
-            // Add the city size to the corresponding row
-            row.insertAdjacentHTML('beforeend', '<td>' + citySize + '</td>');
-        }
-    });
+fetch('data/parks.geojson')
+  .then(response => response.json())
+  .then(data => {
+    parksLayer = L.geoJSON(data, {
+      onEachFeature: function(feature, layer) {
+        layer.bindPopup(`
+          <strong>${feature.properties.name}</strong><br>
+          Amenities: ${feature.properties.amenities.join(', ')}<br>
+          <button onclick="saveFavorite('${feature.properties.name}')">Save to Favorites</button>
+        `);
+      }
+    }).addTo(map);
+  });
+
+// Save favorite parks
+function saveFavorite(name) {
+  let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+  if (!favorites.includes(name)) {
+    favorites.push(name);
+    localStorage.setItem('favorites', JSON.stringify(favorites));
+    updateFavoritesList();
+  }
 }
 
-// Function to add event listeners for hover and click interactions
-function addEvents() {
-    // Add a mouseover event to change the table's background color
-    document.querySelector("table").addEventListener("mouseover", function() {
-        var color = "rgb(";
-
-        for (var i = 0; i < 3; i++) {
-            // Generate a random RGB value
-            var random = Math.round(Math.random() * 255);
-
-            // Add the random value to the color string
-            color += random;
-
-            // Add a comma between values, except for the last one
-            if (i < 2) {
-                color += ",";
-            } else {
-                color += ")";
-            }
-        }
-
-        // Apply the new background color to the table
-        this.style.backgroundColor = color;
-    });
-
-    // Function to handle table click events
-    function clickme() {
-        alert('Hey, you clicked me!');
-    }
-
-    // Add the click event listener to the table
-    document.querySelector("table").addEventListener("click", clickme);
+// Update favorites sidebar
+function updateFavoritesList() {
+  const list = document.getElementById('favorites-list');
+  list.innerHTML = '';
+  let favorites = JSON.parse(localStorage.getItem('favorites')) || [];
+  favorites.forEach(name => {
+    const li = document.createElement('li');
+    li.textContent = name;
+    list.appendChild(li);
+  });
 }
 
-// Call the functions to add columns and event listeners
-addColumns(cityPop);
-addEvents();
+updateFavoritesList();

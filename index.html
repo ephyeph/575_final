@@ -1,28 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width">
-            <title></title>
+<head>
+  <meta charset="UTF-8">
+  <title>GreenSpace Finder</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
 
-        <!--put your external stylesheet links here-->
-        <link rel="stylesheet" href="css/style.css">
-        <!--[if IE<9]>
-            <link rel="stylesheet" href="css/style.ie.css">
-        <![endif]-->
+  <div id="map"></div>
 
-         <!--you can also place internal styles here;
-             place these within <style> tags-->
-        
-    </head>
+  <div id="sidebar">
+    <h2>Filters</h2>
+    <label><input type="checkbox" id="filter-pet"> Pet-friendly</label><br>
+    <label><input type="checkbox" id="filter-restroom"> Restrooms</label><br>
+    <label><input type="checkbox" id="filter-quiet"> Quiet Areas</label><br>
 
-    <body>
-        <!--put your initial page content here-->
+    <h2>Favorites</h2>
+    <ul id="favorites-list"></ul>
+  </div>
 
-        <!--you can also use this space for internal scripts;
-        place these within <script> tags-->
-
-        <!--put your external script links here-->
-        <script type="text/javascript" src="js/main_with_debug.js"></script>
-    </body>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
 </html>
