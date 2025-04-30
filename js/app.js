@@ -105,3 +105,30 @@ if (clearBtn) {
 }
 
 updateFavoritesList();
+
+document.getElementById("locate-btn").addEventListener("click", () => {
+  if (!navigator.geolocation) {
+    alert("Geolocation is not supported by your browser.");
+    return;
+  }
+
+  navigator.geolocation.getCurrentPosition(
+    position => {
+      const lat = position.coords.latitude;
+      const lng = position.coords.longitude;
+
+      // Add a marker at user's location
+      const userMarker = L.marker([lat, lng])
+        .addTo(map)
+        .bindPopup("📍 You are here!")
+        .openPopup();
+
+      // Zoom to user's location
+      map.setView([lat, lng], 14);
+    },
+    () => {
+      alert("Unable to retrieve your location.");
+    }
+  );
+});
+
