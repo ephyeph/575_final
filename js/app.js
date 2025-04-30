@@ -7,12 +7,11 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load park data
-let parksLayer;
-
 let allParks = null;   // Store all loaded parks
+let parksLayer = null;
 
 // Load the data
-fetch("data/parks_all_with_amenities.geojson")
+fetch("data/parks.geojson")
   .then(response => response.json())
   .then(data => {
     allParks = data;       // Store the full GeoJSON
