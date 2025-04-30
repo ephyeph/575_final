@@ -794,12 +794,7 @@
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/northerly-island-park",
         "wikidata": "Q3344205",
-        "wikipedia": "en:Northerly Island",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Northerly Island"
       },
       "geometry": {
         "type": "Polygon",
@@ -1949,11 +1944,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "type": "multipolygon",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "type": "multipolygon"
       },
       "geometry": {
         "type": "Polygon",
@@ -2121,12 +2112,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks/River-Park/",
-        "wikidata": "Q49550757",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49550757"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2503,10 +2489,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "phone": "(312) 742-7549",
         "type": "multipolygon",
-        "website": "https://www.chicagoparkdistrict.com/parks/humboldt-park/",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/humboldt-park/"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2651,12 +2634,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-534",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-534"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3127,11 +3105,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks/gompers-park/",
-        "wikidata": "Q49494498",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49494498"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3720,12 +3694,7 @@
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks/sauganash-trail-park/",
         "wikidata": "Q85812700",
-        "wikipedia": "en:Skokie Valley Trail",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Skokie Valley Trail"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5442,11 +5411,7 @@
         "operator:type": "public",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lily-gardens-park",
-        "wikidata": "Q49516706",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49516706"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5735,11 +5700,7 @@
         "source": "Bing",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/dixon-lorraine-park",
-        "wikidata": "Q49481981",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49481981"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6037,10 +5998,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/fernwood-parkway-park",
-        "wikidata": "Q34875561",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q34875561"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6619,12 +6577,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/durso-john-park",
-        "wikidata": "Q49484628",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49484628"
       },
       "geometry": {
         "type": "Polygon",
@@ -7413,11 +7366,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/abbott-robert-park",
-        "wikidata": "Q34630551",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q34630551"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8089,10 +8038,7 @@
       "properties": {
         "@id": "relation/8384297",
         "leisure": "park",
-        "type": "multipolygon",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "type": "multipolygon"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8756,12 +8702,7 @@
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lincoln-park/",
         "wikidata": "Q2123262",
-        "wikipedia": "en:Lincoln Park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Lincoln Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -13708,11 +13649,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "type": "multipolygon",
         "wikidata": "Q4928316",
-        "wikipedia": "en:Bloomingdale Trail",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Bloomingdale Trail"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16263,12 +16200,7 @@
         "leisure": "park",
         "name": "Sacramento Square",
         "type": "multipolygon",
-        "wikidata": "Q49555319",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49555319"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16742,10 +16674,7 @@
         "type": "multipolygon",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/Burnham-Park/",
         "wikidata": "Q1062693",
-        "wikipedia": "en:Burnham Park (Chicago)",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikipedia": "en:Burnham Park (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -21462,10 +21391,7 @@
         "type": "multipolygon",
         "website": "https://cpdmemorial.org/",
         "wikidata": "Q29347342",
-        "wikipedia": "en:Gold Star Families Memorial and Park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Gold Star Families Memorial and Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -24336,11 +24262,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/wicker-charles-joel-park",
         "wikidata": "Q7998336",
-        "wikipedia": "en:Wicker Park (Chicago park)",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Wicker Park (Chicago park)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24400,11 +24322,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/cotton-tail-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/cotton-tail-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -24578,10 +24496,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "wikidata": "Q5150090",
-        "wikipedia": "en:Columbus Park (Chicago)",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Columbus Park (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -24702,10 +24617,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/midway-plaisance-park",
         "wikidata": "Q3378479",
-        "wikipedia": "en:Midway Plaisance",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikipedia": "en:Midway Plaisance"
       },
       "geometry": {
         "type": "Polygon",
@@ -25573,11 +25485,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/edgebrook-park",
-        "wikidata": "Q49539253",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikidata": "Q49539253"
       },
       "geometry": {
         "type": "Polygon",
@@ -25720,12 +25628,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/indian-road-park",
-        "wikidata": "Q49504942",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49504942"
       },
       "geometry": {
         "type": "Polygon",
@@ -25836,11 +25739,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "wikidata": "Q49547349",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49547349"
       },
       "geometry": {
         "type": "Polygon",
@@ -26423,12 +26322,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/hollywood-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/hollywood-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -26486,11 +26380,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/mather-stephen-tyng-park",
-        "wikidata": "Q49522647",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49522647"
       },
       "geometry": {
         "type": "Polygon",
@@ -26642,10 +26532,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/rosedale-park",
-        "wikidata": "Q49553760",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49553760"
       },
       "geometry": {
         "type": "Polygon",
@@ -27245,10 +27132,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/mayfair-park",
-        "wikidata": "Q49522984",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49522984"
       },
       "geometry": {
         "type": "Polygon",
@@ -27298,10 +27182,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/horner-henry-park",
-        "wikidata": "Q49503103",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49503103"
       },
       "geometry": {
         "type": "Polygon",
@@ -28031,12 +27912,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/revere-paul-park",
-        "wikidata": "Q49549538",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49549538"
       },
       "geometry": {
         "type": "Polygon",
@@ -28220,10 +28096,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/hamlin-hannibal-park",
-        "wikidata": "Q49497425",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49497425"
       },
       "geometry": {
         "type": "Polygon",
@@ -28278,10 +28151,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/trebes-robert-park",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/trebes-robert-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -28330,12 +28200,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/jonquil-park",
-        "wikidata": "Q34914434",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q34914434"
       },
       "geometry": {
         "type": "Polygon",
@@ -28596,10 +28461,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/cragin-park",
-        "wikidata": "Q49480808",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49480808"
       },
       "geometry": {
         "type": "Polygon",
@@ -28715,11 +28577,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/seward-william-park",
         "wikidata": "Q49559994",
-        "wikipedia": "en:Seward Park (Chicago)",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikipedia": "en:Seward Park (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -28836,11 +28694,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/goudy-william-square-park",
-        "wikidata": "Q34883174",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q34883174"
       },
       "geometry": {
         "type": "Polygon",
@@ -29209,17 +29063,12 @@
         "leisure": "park",
         "name": "Dvorak Park",
         "name:etymology:wikidata": "Q7298",
-        "name:etymology:wikipedia": "en:Anton\u00edn Dvo\u0159\u00e1k",
+        "name:etymology:wikipedia": "en:Antonín Dvořák",
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/dvorak-anton-park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/dvorak-anton-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -29285,11 +29134,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/chippewa-park",
-        "wikidata": "Q34924692",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q34924692"
       },
       "geometry": {
         "type": "Polygon",
@@ -29468,12 +29313,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/mozart-amadeus-park",
-        "wikidata": "Q49529428",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49529428"
       },
       "geometry": {
         "type": "Polygon",
@@ -29720,11 +29560,7 @@
         "ref:nrhp": "05000875",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/cornell-paul-square-park",
         "wikidata": "Q85754114",
-        "wikipedia": "en:Cornell Square",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Cornell Square"
       },
       "geometry": {
         "type": "Polygon",
@@ -29990,10 +29826,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "source": "satellite",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/hermitage-park",
-        "wikidata": "Q49500446",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49500446"
       },
       "geometry": {
         "type": "Polygon",
@@ -30042,10 +29875,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/russell-square-park",
-        "wikidata": "Q49554982",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49554982"
       },
       "geometry": {
         "type": "Polygon",
@@ -30316,11 +30146,7 @@
         "source": "satellite",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/Sherman-Park/",
         "wikidata": "Q7495222",
-        "wikipedia": "en:Sherman Park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Sherman Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -30380,12 +30206,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "source": "satellite",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/wentworth-john-park",
-        "wikidata": "Q49578386",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49578386"
       },
       "geometry": {
         "type": "Polygon",
@@ -30451,10 +30272,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/hale-nathan-park",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/hale-nathan-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -30742,11 +30560,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/walsh-john-park",
-        "wikidata": "Q49576549",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49576549"
       },
       "geometry": {
         "type": "Polygon",
@@ -31075,10 +30889,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Touhy-Park/",
-        "wikidata": "Q49571354",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49571354"
       },
       "geometry": {
         "type": "Polygon",
@@ -31198,12 +31009,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "source": "usgs",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/spruce-park",
-        "wikidata": "Q49564965",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49564965"
       },
       "geometry": {
         "type": "Polygon",
@@ -31407,10 +31213,7 @@
       "properties": {
         "@id": "way/34318771",
         "leisure": "park",
-        "place": "islet",
-        "amenities": [
-          "Restrooms"
-        ]
+        "place": "islet"
       },
       "geometry": {
         "type": "Polygon",
@@ -32594,11 +32397,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/garfield-james-park",
         "wikidata": "Q3098339",
-        "wikipedia": "en:Garfield Park (Chicago)",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Garfield Park (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -32882,11 +32681,7 @@
         "short_name": "Douglass Park",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/douglass-anna-frederick-park",
         "wikidata": "Q5301876",
-        "wikipedia": "en:Douglass Park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikipedia": "en:Douglass Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -33329,11 +33124,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/clybourn-archibald-park",
-        "wikidata": "Q49478685",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikidata": "Q49478685"
       },
       "geometry": {
         "type": "Polygon",
@@ -33403,10 +33194,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/kolmar-gertrud-park",
-        "wikidata": "Q49511904",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49511904"
       },
       "geometry": {
         "type": "Polygon",
@@ -33456,10 +33244,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/kelvyn-william-park",
-        "wikidata": "Q6386788",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q6386788"
       },
       "geometry": {
         "type": "Polygon",
@@ -33513,12 +33298,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Emmerson-Park/",
-        "wikidata": "Q49486980",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49486980"
       },
       "geometry": {
         "type": "Polygon",
@@ -33603,12 +33383,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/moore-maurice-park",
-        "wikidata": "Q49528114",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikidata": "Q49528114"
       },
       "geometry": {
         "type": "Polygon",
@@ -33950,10 +33725,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "1107",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/Zatterberg-Playlot-Park/",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/Zatterberg-Playlot-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -34713,11 +34485,7 @@
         "lit": "yes",
         "motor_vehicle": "no",
         "name": "Giddings Plaza",
-        "surface": "paving_stones",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "surface": "paving_stones"
       },
       "geometry": {
         "type": "Polygon",
@@ -34858,11 +34626,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lowe-samuel-park",
-        "wikidata": "Q49519763",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49519763"
       },
       "geometry": {
         "type": "Polygon",
@@ -35131,12 +34895,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/buffalo-park",
-        "wikidata": "Q34909555",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q34909555"
       },
       "geometry": {
         "type": "Polygon",
@@ -35420,10 +35179,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/robinson-jackie-park",
-        "wikidata": "Q49529198",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49529198"
       },
       "geometry": {
         "type": "Polygon",
@@ -35577,10 +35333,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/morgan-thomas-leeds-field-park",
-        "wikidata": "Q49528295",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49528295"
       },
       "geometry": {
         "type": "Polygon",
@@ -35757,11 +35510,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/West-Pullman-Park/",
-        "wikidata": "Q49578975",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49578975"
       },
       "geometry": {
         "type": "Polygon",
@@ -35950,11 +35699,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/wilson-frank-j-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/wilson-frank-j-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -36178,12 +35923,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "wikidata": "Q78505444",
-        "wikipedia": "en:Hamilton Park (Chicago)",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Hamilton Park (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -36302,10 +36042,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/kennedy-dennis-park",
-        "wikidata": "Q49510091",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49510091"
       },
       "geometry": {
         "type": "Polygon",
@@ -36503,11 +36240,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/gross-theodore-park",
-        "wikidata": "Q49496540",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49496540"
       },
       "geometry": {
         "type": "Polygon",
@@ -36621,10 +36354,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/andersonville-park",
-        "wikidata": "Q34810522",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q34810522"
       },
       "geometry": {
         "type": "Polygon",
@@ -36677,11 +36407,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/buttercup-park",
-        "wikidata": "Q34844355",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q34844355"
       },
       "geometry": {
         "type": "Polygon",
@@ -36926,12 +36652,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/monument-park",
-        "wikidata": "Q49527948",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49527948"
       },
       "geometry": {
         "type": "Polygon",
@@ -37057,7 +36778,7 @@
         "leisure": "park",
         "name": "Chopin Park",
         "name:etymology:wikidata": "Q1268",
-        "name:etymology:wikipedia": "en:Fr\u00e9d\u00e9ric Chopin",
+        "name:etymology:wikipedia": "en:Frédéric Chopin",
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
@@ -37130,10 +36851,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/trumbull-lyman-park",
         "wikidata": "Q49572249",
-        "wikipedia": "en:Trumbull Park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikipedia": "en:Trumbull Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -37199,12 +36917,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/avalon-park",
-        "wikidata": "Q34812440",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q34812440"
       },
       "geometry": {
         "type": "Polygon",
@@ -37338,10 +37051,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/bessemer-henry-park",
-        "wikidata": "Q4896427",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q4896427"
       },
       "geometry": {
         "type": "Polygon",
@@ -37401,11 +37111,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/rosenblum-j-leslie-park",
-        "wikidata": "Q49553842",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49553842"
       },
       "geometry": {
         "type": "Polygon",
@@ -37598,10 +37304,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Grand-Crossing-Park/",
         "wikidata": "Q34883962",
-        "wikipedia": "en:Grand Crossing Park",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikipedia": "en:Grand Crossing Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -37659,11 +37362,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Hayes-Park/",
-        "wikidata": "Q49499101",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49499101"
       },
       "geometry": {
         "type": "Polygon",
@@ -38009,12 +37708,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/smith-joseph-higgins-park",
-        "wikidata": "Q49562566",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49562566"
       },
       "geometry": {
         "type": "Polygon",
@@ -38086,12 +37780,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/bosley-william-park",
-        "wikidata": "Q34903540",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q34903540"
       },
       "geometry": {
         "type": "Polygon",
@@ -38186,12 +37875,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/126548303",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -38498,12 +38182,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/Washington-Square-Park/",
         "wikidata": "Q7972217",
-        "wikipedia": "en:Washington Square Park (Chicago)",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Washington Square Park (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -38549,10 +38228,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/heritage-green-park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/heritage-green-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -38640,11 +38316,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Bartelme-Mary-Park/",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Bartelme-Mary-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -38693,12 +38365,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/mount-greenwood-park",
-        "wikidata": "Q49528945",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49528945"
       },
       "geometry": {
         "type": "Polygon",
@@ -39120,11 +38787,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/donovan-george-park",
-        "wikidata": "Q49483760",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49483760"
       },
       "geometry": {
         "type": "Polygon",
@@ -39221,10 +38884,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/sherwood-park",
-        "wikidata": "Q49561136",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49561136"
       },
       "geometry": {
         "type": "Polygon",
@@ -39283,11 +38943,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/meyering-william-park",
-        "wikidata": "Q49525772",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49525772"
       },
       "geometry": {
         "type": "Polygon",
@@ -39336,11 +38992,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/brainerd-park",
-        "wikidata": "Q34904779",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q34904779"
       },
       "geometry": {
         "type": "Polygon",
@@ -39590,12 +39242,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/rutherford-sayre-park",
-        "wikidata": "Q49555101",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49555101"
       },
       "geometry": {
         "type": "Polygon",
@@ -39792,10 +39439,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "1219",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/mellin-curtis-sr-park",
-        "wikidata": "Q49524574",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49524574"
       },
       "geometry": {
         "type": "Polygon",
@@ -39963,12 +39607,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/arrigo-victor-park",
-        "wikidata": "Q34809783",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q34809783"
       },
       "geometry": {
         "type": "Polygon",
@@ -40295,12 +39934,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/tilton-george-park",
-        "wikidata": "Q49570789",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49570789"
       },
       "geometry": {
         "type": "Polygon",
@@ -40465,10 +40099,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Austin-Park/",
-        "wikidata": "Q34812320",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q34812320"
       },
       "geometry": {
         "type": "Polygon",
@@ -40529,11 +40160,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Carmen-Playlot-Park/",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Carmen-Playlot-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -40585,11 +40212,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "299",
         "website": "https://www.chicagoparkdistrict.com/parks/Hickory-Playlot-Park/",
-        "wikidata": "Q49500703",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49500703"
       },
       "geometry": {
         "type": "Polygon",
@@ -40642,12 +40265,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "1090",
-        "wikidata": "Q49511960",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49511960"
       },
       "geometry": {
         "type": "Polygon",
@@ -41867,10 +41485,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/tuley-murray-park",
-        "wikidata": "Q49572398",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49572398"
       },
       "geometry": {
         "type": "Polygon",
@@ -42041,11 +41656,7 @@
         "ref:nrhp": "03000787",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/davis-dr-nathan-square-park",
         "wikidata": "Q85755906",
-        "wikipedia": "en:Davis Square (Chicago)",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Davis Square (Chicago)"
       },
       "geometry": {
         "type": "Polygon",
@@ -42207,11 +41818,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/wagner-clarence-park",
-        "wikidata": "Q49576090",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49576090"
       },
       "geometry": {
         "type": "Polygon",
@@ -42357,11 +41964,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "wikidata": "Q49513434",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49513434"
       },
       "geometry": {
         "type": "Polygon",
@@ -43012,11 +42615,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/greenebaum-henry-park",
-        "wikidata": "Q49495902",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49495902"
       },
       "geometry": {
         "type": "Polygon",
@@ -43080,10 +42679,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "wikidata": "Q49509653",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49509653"
       },
       "geometry": {
         "type": "Polygon",
@@ -43128,10 +42724,7 @@
         "@id": "way/136507371",
         "leisure": "park",
         "name": "Unity Park",
-        "source": "Bing",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "source": "Bing"
       },
       "geometry": {
         "type": "Polygon",
@@ -43303,11 +42896,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/leclaire-hearst-park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/leclaire-hearst-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -43539,12 +43128,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lawler-michael-park",
-        "wikidata": "Q49515144",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49515144"
       },
       "geometry": {
         "type": "Polygon",
@@ -43633,12 +43217,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/west-lawn-park",
-        "wikidata": "Q49578749",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49578749"
       },
       "geometry": {
         "type": "Polygon",
@@ -43728,10 +43307,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/strohacker-howard-park",
-        "wikidata": "Q49566910",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49566910"
       },
       "geometry": {
         "type": "Polygon",
@@ -43898,10 +43474,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/graver-philip-park",
-        "wikidata": "Q34884790",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q34884790"
       },
       "geometry": {
         "type": "Polygon",
@@ -44115,12 +43688,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/dooley-thomas-park",
-        "wikidata": "Q49483767",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49483767"
       },
       "geometry": {
         "type": "Polygon",
@@ -44232,10 +43800,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/scottsdale-park",
-        "wikidata": "Q49558989",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49558989"
       },
       "geometry": {
         "type": "Polygon",
@@ -44442,12 +44007,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/euclid-park",
-        "wikidata": "Q34874155",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q34874155"
       },
       "geometry": {
         "type": "Polygon",
@@ -44791,12 +44351,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/veterans-memorial-park",
-        "wikidata": "Q49574770",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49574770"
       },
       "geometry": {
         "type": "Polygon",
@@ -45113,12 +44668,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/washington-harold-park",
         "wikidata": "Q5662686",
-        "wikipedia": "en:Harold Washington Park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikipedia": "en:Harold Washington Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -45640,10 +45190,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/seneca-park",
-        "wikidata": "Q49559599",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49559599"
       },
       "geometry": {
         "type": "Polygon",
@@ -45977,10 +45524,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Bessie-Coleman-Park/",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Bessie-Coleman-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -46244,11 +45788,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/unity-park",
-        "wikidata": "Q49573301",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49573301"
       },
       "geometry": {
         "type": "Polygon",
@@ -46303,7 +45843,7 @@
         "leisure": "park",
         "name": "Kosciuszko Park",
         "name:etymology:wikidata": "Q191479",
-        "name:etymology:wikipedia": "en:Tadeusz Ko\u015bciuszko",
+        "name:etymology:wikipedia": "en:Tadeusz Kościuszko",
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
@@ -46785,12 +46325,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-womens-park-and-gardens",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/chicago-womens-park-and-gardens"
       },
       "geometry": {
         "type": "Polygon",
@@ -46966,11 +46501,7 @@
         "gnis:feature_id": "1737522",
         "leisure": "park",
         "name": "Groveland Park",
-        "wikidata": "Q34885002",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q34885002"
       },
       "geometry": {
         "type": "Polygon",
@@ -47024,12 +46555,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/triangle-playlot-park/",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/triangle-playlot-park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -47725,10 +47251,7 @@
       "properties": {
         "@id": "way/157655706",
         "leisure": "park",
-        "name": "Farr Field",
-        "amenities": [
-          "Restrooms"
-        ]
+        "name": "Farr Field"
       },
       "geometry": {
         "type": "Polygon",
@@ -47778,10 +47301,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "wikidata": "Q4793784",
-        "wikipedia": "en:Armour Square Park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikipedia": "en:Armour Square Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -47957,12 +47477,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/jacob-park",
-        "wikidata": "Q49506351",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49506351"
       },
       "geometry": {
         "type": "Polygon",
@@ -48860,10 +48375,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/kennicott-jonathan-park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/kennicott-jonathan-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -49026,10 +48538,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/williams-davis-hattie-kay-izora-park",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/williams-davis-hattie-kay-izora-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -49244,11 +48753,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/stars-stripes-park",
-        "wikidata": "Q49565361",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49565361"
       },
       "geometry": {
         "type": "Polygon",
@@ -49421,12 +48926,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/challenger-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/challenger-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -49658,11 +49158,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/hartigan-david-beach-park",
-        "wikidata": "Q34886554",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q34886554"
       },
       "geometry": {
         "type": "Polygon",
@@ -50340,11 +49836,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/wilson-john-p-park",
-        "wikidata": "Q49581809",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49581809"
       },
       "geometry": {
         "type": "Polygon",
@@ -50470,10 +49962,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Harrison-Park/",
-        "wikidata": "Q34886234",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q34886234"
       },
       "geometry": {
         "type": "Polygon",
@@ -50593,10 +50082,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/cosme-margaret-park",
-        "wikidata": "Q49480291",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49480291"
       },
       "geometry": {
         "type": "Polygon",
@@ -50761,11 +50247,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/block-eugene-h-park",
-        "wikidata": "Q34832409",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q34832409"
       },
       "geometry": {
         "type": "Polygon",
@@ -50980,12 +50462,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Brown-Memorial-Park/",
-        "wikidata": "Q49539349",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49539349"
       },
       "geometry": {
         "type": "Polygon",
@@ -51108,10 +50585,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/wallace-park",
-        "wikidata": "Q49576417",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49576417"
       },
       "geometry": {
         "type": "Polygon",
@@ -51511,12 +50985,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "wikidata": "Q49565258",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49565258"
       },
       "geometry": {
         "type": "Polygon",
@@ -51631,10 +51100,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/superior-park",
-        "wikidata": "Q49568104",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49568104"
       },
       "geometry": {
         "type": "Polygon",
@@ -52052,10 +51518,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks/Maple-Playlot-Park/",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Maple-Playlot-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -52108,10 +51571,7 @@
         "phone": "+1-312-742-7785",
         "ref": "449",
         "website": "https://www.chicagoparkdistrict.com/parks/Wieboldt-Playlot-Park/",
-        "wikidata": "Q49539268",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49539268"
       },
       "geometry": {
         "type": "Polygon",
@@ -52213,11 +51673,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/supera-louis-park",
-        "wikidata": "Q49568095",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49568095"
       },
       "geometry": {
         "type": "Polygon",
@@ -52271,11 +51727,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/clover-playlot-park/",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/clover-playlot-park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -52583,12 +52035,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/pietrowski-sylvester-park",
-        "wikidata": "Q49542535",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49542535"
       },
       "geometry": {
         "type": "Polygon",
@@ -52757,12 +52204,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/ohio-park",
-        "wikidata": "Q49534779",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49534779"
       },
       "geometry": {
         "type": "Polygon",
@@ -52864,11 +52306,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-399",
-        "wikidata": "Q49539254",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49539254"
       },
       "geometry": {
         "type": "Polygon",
@@ -53374,10 +52812,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "source": "Chicago Park District inventory",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/jacolik-florian-s-park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/jacolik-florian-s-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -53760,12 +53195,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/canal-origins-park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/canal-origins-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -54367,10 +53797,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/huckleberry-park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/huckleberry-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -54542,10 +53969,7 @@
       "properties": {
         "@id": "way/184873177",
         "leisure": "park",
-        "source": "Bing",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "source": "Bing"
       },
       "geometry": {
         "type": "Polygon",
@@ -54611,10 +54035,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/chestnut-park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/chestnut-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -55001,11 +54422,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Jackson-Playlot-Park/",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Jackson-Playlot-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -55053,11 +54470,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/aspen-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/aspen-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -55105,12 +54518,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/armstrong-lillian-hardin-park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/armstrong-lillian-hardin-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -55166,12 +54574,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/sumac-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/sumac-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -55640,12 +55043,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/parkview-playlot-park",
-        "wikidata": "Q49539597",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49539597"
       },
       "geometry": {
         "type": "Polygon",
@@ -55843,12 +55241,7 @@
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/edison-thomas-alva-park",
         "wikidata": "Q5338411",
-        "wikipedia": "en:Edison Park (Chicago park)",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikipedia": "en:Edison Park (Chicago park)"
       },
       "geometry": {
         "type": "Polygon",
@@ -56118,11 +55511,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/ohio-harding-park",
-        "wikidata": "Q49534775",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49534775"
       },
       "geometry": {
         "type": "Polygon",
@@ -56172,10 +55561,7 @@
         "operator:wikidata": "Q2963322",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/weisman-albert-park",
         "wheelchair": "yes",
-        "wikidata": "Q49578146",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49578146"
       },
       "geometry": {
         "type": "Polygon",
@@ -56382,12 +55768,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/grape-park",
-        "wikidata": "Q49495393",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49495393"
       },
       "geometry": {
         "type": "Polygon",
@@ -56422,10 +55803,7 @@
         "gnis:feature_id": "1836811",
         "leisure": "park",
         "name": "Stehman School Playground",
-        "wikidata": "Q49566107",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49566107"
       },
       "geometry": {
         "type": "Polygon",
@@ -56527,11 +55905,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/adams-george-adele-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/adams-george-adele-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -56580,12 +55954,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lake-shore-park",
-        "wikidata": "Q49513667",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49513667"
       },
       "geometry": {
         "type": "Polygon",
@@ -56774,10 +56143,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-west-park",
-        "wikidata": "Q49539437",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49539437"
       },
       "geometry": {
         "type": "Polygon",
@@ -56875,11 +56241,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/augusta-carpenter-park",
-        "wikidata": "Q34811839",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikidata": "Q34811839"
       },
       "geometry": {
         "type": "Polygon",
@@ -56977,10 +56339,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/de-george-bernice-park",
-        "wikidata": "Q49482226",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49482226"
       },
       "geometry": {
         "type": "Polygon",
@@ -57086,12 +56445,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/harding-frederick-playground-park",
-        "wikidata": "Q49497933",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49497933"
       },
       "geometry": {
         "type": "Polygon",
@@ -57399,11 +56753,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/washtenaw-park",
-        "wikidata": "Q49577371",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49577371"
       },
       "geometry": {
         "type": "Polygon",
@@ -57846,12 +57196,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/bromann-charles-park",
-        "wikidata": "Q34907303",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "wikidata": "Q34907303"
       },
       "geometry": {
         "type": "Polygon",
@@ -57902,10 +57247,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lazarus-emma-park",
-        "wikidata": "Q49515275",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49515275"
       },
       "geometry": {
         "type": "Polygon",
@@ -58827,12 +58169,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/langdon-mary-margaret-park",
-        "wikidata": "Q49514459",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49514459"
       },
       "geometry": {
         "type": "Polygon",
@@ -59019,10 +58356,7 @@
         "leisure": "park",
         "name": "College of Medicine Courtyard",
         "operator": "University of Illinois at Chicago",
-        "operator:type": "university",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "operator:type": "university"
       },
       "geometry": {
         "type": "Polygon",
@@ -59418,12 +58752,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "source": "Bing",
-        "website": "https://www.chicagoparkdistrict.com/parks/Nancy-Jefferson-Park/",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Nancy-Jefferson-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -59615,12 +58944,7 @@
         "name": "Milton Lee Olive Park",
         "operator": "MWRD",
         "wikidata": "Q28225938",
-        "wikipedia": "en:Milton Lee Olive Park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikipedia": "en:Milton Lee Olive Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -59904,12 +59228,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/cedar-park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/cedar-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -60358,10 +59677,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Golden-Gate-Park/",
-        "wikidata": "Q49494397",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49494397"
       },
       "geometry": {
         "type": "Polygon",
@@ -61373,10 +60689,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Luella-Playlot-Park/",
-        "wikidata": "Q49520107",
-        "amenities": [
-          "Restrooms"
-        ]
+        "wikidata": "Q49520107"
       },
       "geometry": {
         "type": "Polygon",
@@ -61412,12 +60725,7 @@
       "properties": {
         "@id": "way/218346433",
         "leisure": "park",
-        "name": "Waters School Garden",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "name": "Waters School Garden"
       },
       "geometry": {
         "type": "Polygon",
@@ -61552,12 +60860,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "operator:wikipedia": "en:Chicago Park District",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "operator:wikipedia": "en:Chicago Park District"
       },
       "geometry": {
         "type": "Polygon",
@@ -61708,10 +61011,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "1079",
-        "website": "https://www.chicagoparkdistrict.com/parks/Krause-Playlot-Park/",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Krause-Playlot-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -61759,11 +61059,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/washington-harold-memorial-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/washington-harold-memorial-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -61954,12 +61250,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/till-mobley-mamie-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/till-mobley-mamie-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -62158,12 +61449,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "437",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-437",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-437"
       },
       "geometry": {
         "type": "Polygon",
@@ -62307,11 +61593,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "1287",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/pine-park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/pine-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -62408,11 +61690,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "397",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/grove-park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/grove-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -62463,12 +61741,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/mulberry-park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/mulberry-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -62525,11 +61798,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/mcinerney-thomas-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/mcinerney-thomas-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -62657,11 +61926,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Margaret-Hie-Ding-Lin-Park/",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Margaret-Hie-Ding-Lin-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -62719,11 +61984,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/ruiz-irma-c-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/ruiz-irma-c-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -62789,12 +62050,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/fosco-park/",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/fosco-park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -63212,11 +62468,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/lane-george-beach-park",
-        "wikidata": "Q49514422",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikidata": "Q49514422"
       },
       "geometry": {
         "type": "Polygon",
@@ -63421,10 +62673,7 @@
       "properties": {
         "@id": "way/222585335",
         "leisure": "park",
-        "source": "Bing",
-        "amenities": [
-          "Restrooms"
-        ]
+        "source": "Bing"
       },
       "geometry": {
         "type": "Polygon",
@@ -63889,12 +63138,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/bauler-mathias-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/bauler-mathias-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -64167,11 +63411,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/tarkington-park/",
-        "wikidata": "Q49569193",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49569193"
       },
       "geometry": {
         "type": "Polygon",
@@ -65238,12 +64478,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Taylor-Park/",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Taylor-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -65982,12 +65217,7 @@
       "properties": {
         "@id": "way/232078293",
         "leisure": "park",
-        "source": "Bing",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "source": "Bing"
       },
       "geometry": {
         "type": "Polygon",
@@ -66310,12 +65540,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Kiwanis-Park/",
-        "wikidata": "Q49511395",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49511395"
       },
       "geometry": {
         "type": "Polygon",
@@ -66557,11 +65782,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Memorial-Playlot-Park/",
-        "wikidata": "Q49524811",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49524811"
       },
       "geometry": {
         "type": "Polygon",
@@ -66915,10 +66136,7 @@
       "properties": {
         "@id": "way/235227858",
         "leisure": "park",
-        "name": "North Garden",
-        "amenities": [
-          "Restrooms"
-        ]
+        "name": "North Garden"
       },
       "geometry": {
         "type": "Polygon",
@@ -67064,10 +66282,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Limas-Playground-Park/",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Limas-Playground-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -69738,10 +68953,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/238316810",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -69831,11 +69043,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Hazelnut-Park/",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Hazelnut-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -69951,10 +69159,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks/Park-No-514/",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Park-No-514/"
       },
       "geometry": {
         "type": "Polygon",
@@ -69997,11 +69202,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/kujawa-chester-frank-park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/kujawa-chester-frank-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -70049,11 +69250,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Renaissance-Park/",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Renaissance-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -70186,11 +69383,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/schafer-clara-d-park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/schafer-clara-d-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -70311,10 +69504,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "523",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/steelworkers-park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/steelworkers-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -70668,12 +69858,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/wang-chi-che-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/wang-chi-che-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -70885,12 +70070,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "was:landuse": "railway",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "was:landuse": "railway"
       },
       "geometry": {
         "type": "Polygon",
@@ -71899,10 +71079,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/302011112",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -72127,11 +71304,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/313782014",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -73040,12 +72213,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/white-jesse-park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/white-jesse-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -73347,11 +72515,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://chicagoplaygrounds.com/s/guide/item/3039#lg=1&slide=9",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://chicagoplaygrounds.com/s/guide/item/3039#lg=1&slide=9"
       },
       "geometry": {
         "type": "Polygon",
@@ -73412,7 +72576,7 @@
         "addr:state": "IL",
         "addr:street": "North Honore Street",
         "leisure": "park",
-        "name": "Honor\u00e9 Park",
+        "name": "Honoré Park",
         "name:etymology:wikidata": "Q474672",
         "name:etymology:wikipedia": "en:Bertha Palmer",
         "operator": "Chicago Park District",
@@ -73465,11 +72629,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/homan-square-community-center-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/homan-square-community-center-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -73706,11 +72866,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-422",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-422"
       },
       "geometry": {
         "type": "Polygon",
@@ -73934,12 +73090,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/anderson-louis-park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/anderson-louis-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -74020,10 +73171,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/pullman-george-park",
-        "wikidata": "Q49546825",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "wikidata": "Q49546825"
       },
       "geometry": {
         "type": "Polygon",
@@ -74258,11 +73406,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Williams-Daniel-Hale-Park/",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Williams-Daniel-Hale-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -74472,10 +73616,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/crawford-peter-park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/crawford-peter-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -74567,12 +73708,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/millard-alden-park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/millard-alden-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -74668,11 +73804,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/christiana-park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/christiana-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -74811,10 +73943,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/homan-joseph-park",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/homan-joseph-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -74957,12 +74086,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/barrett-park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/barrett-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -75082,11 +74206,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/st-louis-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/st-louis-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -75132,11 +74252,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/dobson-park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/dobson-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -75173,11 +74289,7 @@
         "@id": "way/356323936",
         "leisure": "park",
         "name": "Peanut Park",
-        "parking": "Peanut Park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "parking": "Peanut Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -75516,12 +74628,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks/Fargo-Beach-Park/",
-        "wikidata": "Q49488347",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49488347"
       },
       "geometry": {
         "type": "Polygon",
@@ -75646,10 +74753,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks/Eugenie-Triangle-Park/",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Eugenie-Triangle-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -76265,11 +75369,7 @@
         "@id": "way/382712241",
         "leisure": "park",
         "name": "Job Corps Riverbank",
-        "website": "https://www.cityofchicago.org/content/dam/city/depts/zlup/Sustainable_Development/Publications/Chicago_Nature_and_Wildlife_Plan/Job_Corps_Riverbank.pdf",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "website": "https://www.cityofchicago.org/content/dam/city/depts/zlup/Sustainable_Development/Publications/Chicago_Nature_and_Wildlife_Plan/Job_Corps_Riverbank.pdf"
       },
       "geometry": {
         "type": "Polygon",
@@ -76488,10 +75588,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/brighton-park-community-campus-park-no-596",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/brighton-park-community-campus-park-no-596"
       },
       "geometry": {
         "type": "Polygon",
@@ -77373,11 +76470,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "website": "https://www.chicagoparkdistrict.com/parks-facilities/montgomery-mabel-park",
-        "wikidata": "Q49527845",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "wikidata": "Q49527845"
       },
       "geometry": {
         "type": "Polygon",
@@ -77941,12 +77034,7 @@
         "historic": "memorial",
         "leisure": "park",
         "memorial": "war_memorial",
-        "name": "East Side Memorial",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "name": "East Side Memorial"
       },
       "geometry": {
         "type": "Polygon",
@@ -78001,10 +77089,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/414217918",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -78227,11 +77312,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks/Hasan-Playlot-Park/",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks/Hasan-Playlot-Park/"
       },
       "geometry": {
         "type": "Polygon",
@@ -78387,10 +77468,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-580",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-580"
       },
       "geometry": {
         "type": "Polygon",
@@ -78520,11 +77598,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/444952964",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -78799,10 +77873,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/469573269",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -79606,11 +78677,7 @@
         "leisure": "park",
         "name": "Chicago Riverwalk",
         "wikidata": "Q5095770",
-        "wikipedia": "en:Chicago Riverwalk",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "wikipedia": "en:Chicago Riverwalk"
       },
       "geometry": {
         "type": "Polygon",
@@ -82102,12 +81169,7 @@
       "properties": {
         "@id": "way/509711753",
         "leisure": "park",
-        "name": "Newberry Elementary Playground",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "name": "Newberry Elementary Playground"
       },
       "geometry": {
         "type": "Polygon",
@@ -82292,12 +81354,7 @@
       "properties": {
         "@id": "way/531515134",
         "access": "private",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -82377,12 +81434,7 @@
       "properties": {
         "@id": "way/533657562",
         "leisure": "park",
-        "name": "Edgewater Historic Park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "name": "Edgewater Historic Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -82422,12 +81474,7 @@
       "properties": {
         "@id": "way/533657563",
         "leisure": "park",
-        "name": "Edgewater Historic Park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "name": "Edgewater Historic Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -82523,11 +81570,7 @@
       "properties": {
         "@id": "way/542093850",
         "access": "private",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -82708,12 +81751,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/summerdale-park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/summerdale-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -82772,11 +81810,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/546137238",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -82952,11 +81986,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/595915994",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -83095,10 +82125,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/597828141",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -83158,10 +82185,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/anderson-fred-park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/anderson-fred-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -83316,11 +82340,7 @@
       "properties": {
         "@id": "way/651229582",
         "leisure": "park",
-        "owner": "City of Chicago",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "owner": "City of Chicago"
       },
       "geometry": {
         "type": "Polygon",
@@ -83626,11 +82646,7 @@
         "leisure": "park",
         "name": "Arthington Mall",
         "operator": "University of Illinois at Chicago",
-        "operator:type": "university",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "operator:type": "university"
       },
       "geometry": {
         "type": "Polygon",
@@ -83733,12 +82749,7 @@
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
         "ref": "588",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-588",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-588"
       },
       "geometry": {
         "type": "Polygon",
@@ -84094,10 +83105,7 @@
       "properties": {
         "@id": "way/747168489",
         "leisure": "park",
-        "name": "The Jetty",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "name": "The Jetty"
       },
       "geometry": {
         "type": "Polygon",
@@ -84759,12 +83767,7 @@
       "properties": {
         "@id": "way/747184053",
         "leisure": "park",
-        "name": "The Cove",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "name": "The Cove"
       },
       "geometry": {
         "type": "Polygon",
@@ -85271,10 +84274,7 @@
       "properties": {
         "@id": "way/769452716",
         "leisure": "park",
-        "name": "McCormick Square",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "name": "McCormick Square"
       },
       "geometry": {
         "type": "Polygon",
@@ -85586,11 +84586,7 @@
       "properties": {
         "@id": "way/846821675",
         "leisure": "park",
-        "name": "Lincoln Common Playground",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "name": "Lincoln Common Playground"
       },
       "geometry": {
         "type": "Polygon",
@@ -85698,12 +84694,7 @@
         "@id": "way/846821679",
         "leisure": "park",
         "name": "Alcott Park",
-        "opening_hours": "sunrise-sunset",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "opening_hours": "sunrise-sunset"
       },
       "geometry": {
         "type": "Polygon",
@@ -85783,11 +84774,7 @@
       "properties": {
         "@id": "way/860267019",
         "leisure": "park",
-        "name": "Riverwalk East",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "name": "Riverwalk East"
       },
       "geometry": {
         "type": "Polygon",
@@ -86223,11 +85210,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "en:Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/emerald-playlot-park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/emerald-playlot-park"
       },
       "geometry": {
         "type": "Polygon",
@@ -86614,11 +85597,7 @@
         "layer": "1",
         "leisure": "park",
         "name": "Park at 150 N Riverside",
-        "operator": "150 N Riverside",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "operator": "150 N Riverside"
       },
       "geometry": {
         "type": "Polygon",
@@ -86957,12 +85936,7 @@
         "name": "Harry W. Pearce Memorial Grove",
         "operator": "University of Illinois at Chicago",
         "operator:type": "university",
-        "short_name": "Memorial Grove",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "short_name": "Memorial Grove"
       },
       "geometry": {
         "type": "Polygon",
@@ -88817,10 +87791,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1002517143",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -89075,11 +88046,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1019650760",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -89454,11 +88421,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1030502208",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -89801,12 +88764,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1066805073",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -89853,10 +88811,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1071386545",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -90068,12 +89023,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-585",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-585"
       },
       "geometry": {
         "type": "Polygon",
@@ -90118,11 +89068,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-593",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-593"
       },
       "geometry": {
         "type": "Polygon",
@@ -90163,10 +89109,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-579-ridgeway-trailhead",
-        "amenities": [
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-579-ridgeway-trailhead"
       },
       "geometry": {
         "type": "Polygon",
@@ -90319,10 +89262,7 @@
         "operator": "Chicago Park District",
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-nta",
-        "amenities": [
-          "Quiet Areas"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-nta"
       },
       "geometry": {
         "type": "Polygon",
@@ -90522,11 +89462,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1088651818",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -90648,11 +89584,7 @@
         "operator:type": "public",
         "operator:wikidata": "Q2963322",
         "operator:wikipedia": "Chicago Park District",
-        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-600-deadstick-pond",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "website": "https://www.chicagoparkdistrict.com/parks-facilities/park-no-600-deadstick-pond"
       },
       "geometry": {
         "type": "Polygon",
@@ -91428,11 +90360,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1123959932",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -91642,11 +90570,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1149500581",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -91834,10 +90758,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1165980686",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -92043,10 +90964,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1169729138",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -92157,12 +91075,7 @@
         "leisure": "park",
         "name": "Vietnam Survivors Memorial",
         "operator": "Vietnam Survivors Memorial Foundation",
-        "operator:type": "private",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "operator:type": "private"
       },
       "geometry": {
         "type": "Polygon",
@@ -92197,11 +91110,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1173125412",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -93010,11 +91919,7 @@
       "properties": {
         "@id": "way/1187727175",
         "access": "private",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -93082,11 +91987,7 @@
       "properties": {
         "@id": "way/1187729623",
         "access": "private",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -93251,11 +92152,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1188678577",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -93446,11 +92343,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1201167900",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -93501,11 +92394,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1204807774",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -93785,11 +92674,7 @@
         "opening_hours": "24/7",
         "operator": "Urban Rivers",
         "operator:type": "private_non_profit",
-        "website": "https://wildmile.org/",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "website": "https://wildmile.org/"
       },
       "geometry": {
         "type": "Polygon",
@@ -94035,11 +92920,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1217204976",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -94289,11 +93170,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1236764365",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -94825,10 +93702,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1283032441",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -94864,12 +93738,7 @@
       "properties": {
         "@id": "way/1283357700",
         "access": "private",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -95286,11 +94155,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1308339873",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -95468,12 +94333,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1315575465",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -97096,12 +95956,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1316526745",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -98077,12 +96932,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1317492111",
-        "leisure": "park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -99252,11 +98102,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1323726231",
-        "leisure": "park",
-        "amenities": [
-          "Quiet Areas",
-          "Restrooms"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -99428,10 +98274,7 @@
       "properties": {
         "@id": "way/1326460547",
         "leisure": "park",
-        "name": "Humboldt Playground -E",
-        "amenities": [
-          "Restrooms"
-        ]
+        "name": "Humboldt Playground -E"
       },
       "geometry": {
         "type": "Polygon",
@@ -99697,11 +98540,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/1329405242",
-        "leisure": "park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly"
-        ]
+        "leisure": "park"
       },
       "geometry": {
         "type": "Polygon",
@@ -99809,12 +98648,7 @@
       "properties": {
         "@id": "way/1331397555",
         "leisure": "park",
-        "name": "Icky Park",
-        "amenities": [
-          "Restrooms",
-          "Pet-friendly",
-          "Quiet Areas"
-        ]
+        "name": "Icky Park"
       },
       "geometry": {
         "type": "Polygon",
@@ -100520,12 +99354,7 @@
       "properties": {
         "@id": "node/3993096535",
         "leisure": "park",
-        "name": "McGee Park",
-        "amenities": [
-          "Pet-friendly",
-          "Restrooms",
-          "Quiet Areas"
-        ]
+        "name": "McGee Park"
       },
       "geometry": {
         "type": "Point",
