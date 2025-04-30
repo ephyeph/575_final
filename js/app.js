@@ -7,15 +7,14 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Load park data
-let allParks = null;   // Store all loaded parks
+let allParks = null;
 let parksLayer = null;
 
-// Load the data
 fetch("data/parks.geojson")
   .then(response => response.json())
   .then(data => {
-    allParks = data;       // Store the full GeoJSON
-    updateMap();           // Draw first version
+    allParks = data;
+    updateMap();
   });
 
 // Get filter elements
@@ -23,38 +22,42 @@ const filterPet = document.getElementById("filter-pet");
 const filterRestroom = document.getElementById("filter-restroom");
 const filterQuiet = document.getElementById("filter-quiet");
 
-// Add listeners to checkboxes
 filterPet.addEventListener("change", updateMap);
 filterRestroom.addEventListener("change", updateMap);
 filterQuiet.addEventListener("change", updateMap);
 
-// Filter + render parks
+// Main map update
 function updateMap() {
   if (parksLayer) {
     map.removeLayer(parksLayer);
   }
 
-  // Get selected filters
   const selectedFilters = [];
   if (filterPet.checked) selectedFilters.push("Pet-friendly");
   if (filterRestroom.checked) selectedFilters.push("Restrooms");
   if (filterQuiet.checked) selectedFilters.push("Quiet Areas");
 
-  // Filter features based on selected amenities
   const filteredFeatures = allParks.features.filter(feature => {
     const amenities = feature.properties.amenities || [];
-    // Every selected filter must be in this park's amenities
     return selectedFilters.every(f => amenities.includes(f));
   });
 
-  // Create filtered GeoJSON object
   const filteredGeoJSON = {
     type: "FeatureCollection",
     features: filteredFeatures
   };
 
-  // Render the filtered layer
+  // Render with style
   parksLayer = L.geoJSON(filteredGeoJSON, {
+    style: function (feature) {
+      const amenities = feature.properties.amenities || [];
+      const count = amenities.length;
+
+      if (count === 3) return { color: "#000", weight: 2, fillColor: "#ffc107", fillOpacity: 0.7 }; // gold
+      if (count === 2) return { color: "#000", weight: 2, fillColor: "#17a2b8", fillOpacity: 0.6 }; // blue
+      if (count === 1) return { color: "#000", weight: 2, fillColor: "#6f42c1", fillOpacity: 0.5 }; // purple
+      return { color: "#999", weight: 1, fillColor: "#ccc", fillOpacity: 0.3 };
+    },
     onEachFeature: (feature, layer) => {
       const amenities = feature.properties.amenities || [];
       layer.bindPopup(`
@@ -65,12 +68,10 @@ function updateMap() {
     }
   }).addTo(map);
 
-  // Zoom to filtered results
   if (filteredFeatures.length > 0) {
     map.fitBounds(parksLayer.getBounds());
   }
 }
-
 
 // Save favorite parks
 function saveFavorite(name) {
@@ -91,6 +92,15 @@ function updateFavoritesList() {
     const li = document.createElement('li');
     li.textContent = name;
     list.appendChild(li);
+  });
+}
+
+// Clear favorites
+const clearBtn = document.getElementById("clear-favorites");
+if (clearBtn) {
+  clearBtn.addEventListener("click", () => {
+    localStorage.removeItem("favorites");
+    updateFavoritesList();
   });
 }
 
