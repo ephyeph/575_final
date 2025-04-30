@@ -10,7 +10,6 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let parksLayer;
 
 let allParks = null;   // Store all loaded parks
-let parksLayer = null; // Active layer shown on map
 
 // Load the data
 fetch("data/parks_all_with_amenities.geojson")
