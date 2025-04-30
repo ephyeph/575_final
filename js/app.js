@@ -16,7 +16,7 @@ fetch('data/parks.geojson')
       onEachFeature: function(feature, layer) {
         layer.bindPopup(`
           <strong>${feature.properties.name}</strong><br>
-          Amenities: ${feature.properties.amenities.join(', ')}<br>
+          Amenities: ${(feature.properties.amenities || []).join(', ')}}<br>
           <button onclick="saveFavorite('${feature.properties.name}')">Save to Favorites</button>
         `);
       }
